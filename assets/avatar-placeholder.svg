@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">OVIEE avatar placeholder</title>
+  <desc id="desc">A dark retro terminal-style avatar with a violet frame and OV monogram.</desc>
+  <rect width="100" height="100" fill="#090511"/>
+  <rect x="5" y="5" width="90" height="90" fill="#140923" stroke="#8a2be2" stroke-width="2"/>
+  <path d="M14 20h12M14 20v12M86 20H74M86 20v12M14 80h12M14 80V68M86 80H74M86 80V68" fill="none" stroke="#ff0055" stroke-width="2"/>
+  <path d="M22 31h56M22 69h56" stroke="#442266" stroke-width="1"/>
+  <text x="50" y="61" fill="#e0d0ff" font-family="monospace" font-size="31" font-weight="700" text-anchor="middle">OV</text>
+  <circle cx="82" cy="16" r="3" fill="#00ffcc"/>
+</svg>
